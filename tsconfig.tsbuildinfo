@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/pwainstall.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/vite-pwa.d.ts","./src/components/fasttab.tsx","./src/components/foodtab.tsx","./src/components/shoppinglist.tsx","./src/components/watercard.tsx","./src/components/weightcard.tsx","./src/components/workouttab.tsx","./src/lib/storage.ts","./src/lib/supabase.ts"],"version":"5.9.3"}
